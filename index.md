@@ -3,7 +3,7 @@
 
 This site will be used as my online portfolio, almost as a replacement to a traditional CV
 
-### Education :mortar_board:
+### Education
 
 - 2018:
   - Openclassrooms - Backend Software Development (Java)
@@ -20,8 +20,26 @@ This site will be used as my online portfolio, almost as a replacement to a trad
   - Microsoft 70-688 Managing And Maintaining Windows 8 
   - Microsoft 70-697 Configuring Windows Device (Windows 10) 
   - Cisco 100-105 ICND1 Interconnecting Cisco Network Devices Part 1 
+  - HNC in Construction and the Built Environment
 
+- 2013:
+  - AS Biology
+  - A2 General Studies 
+  - A2 Physics
+  - A2 Information and Communication Technology
+  - A2 D&T Product Design
 
+- 2011:
+  - GCSE Science
+  - GCSE Additional Science
+  - GCSE D&T Resistant Materials
+  - GCSE English
+  - GCSE English Literature 
+  - GCSE Mathematics 
+  - GCSE Geography
+  - GCSE Information and Communication Technology 
+  - GCSE German
+ 
 
 ### Markdown
 
