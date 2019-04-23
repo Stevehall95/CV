@@ -5,7 +5,7 @@ This site will be used as my online portfolio, almost as a replacement to a trad
 
 ### Education
 
-2018:      Attended Cerco IT Ltd’s intensive Computer Systems & Network Support course
+2018:       Attended Cerco IT Ltd’s intensive Computer Systems & Network Support course
 
 ### Markdown
 
