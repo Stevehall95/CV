@@ -1,9 +1,11 @@
 ## **Welcome to Steve Hall's Portfolio**
 ### Backend Software Delevopment Student
 
-You can use the [editor on GitHub](https://github.com/Stevehall95/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This site will be used as my online portfolio, almost as a replacement to a traditional CV
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Education
+
+2018:      Attended Cerco IT Ltd’s intensive Computer Systems & Network Support course
 
 ### Markdown
 
