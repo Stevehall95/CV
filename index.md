@@ -1,6 +1,30 @@
 # **Welcome to Steve Hall's Portfolio**
 ## Backend Software Delevopment Student
+Welcome to my Portfolio! My name is Steve, and below is a list of my qualifications, work experience etc.
+
 &nbsp;
+
+## About Me
+
+My name is Stephen Hall (although people just call me Steve), and I'm a 23 yeard old male from Sheffield, South Yorkshire. I live with my partner, four rabbits and a dog, so things can sometimes get hectic!
+My hobbies include my PC, playing videogames, music and riding my Motorbike.
+
+## Contact Details
+
+#### Address:
+
+   172 Manor Oaks Road
+   <br>
+   Sheffield
+   
+#### Phone:
+   07907002334
+   
+#### Email:
+   Stephen_hall_95@live.co.uk
+   
+#### Skype:
+   stevehall-95
 
 ## Education
 
@@ -38,7 +62,8 @@
    - GCSE Geography
    - GCSE Information and Communication Technology 
    - GCSE German
- 
+   
+&nbsp;
 
 ## Work Experience
 
@@ -54,7 +79,7 @@
 
 #### - April 2014 - March 2015
    - West Yorkshire Police
-      - ###### Muktimedia Assisstant
+      - ###### Multimedia Assisstant
       
       
       
