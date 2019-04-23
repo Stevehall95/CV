@@ -5,7 +5,8 @@ This site will be used as my online portfolio, almost as a replacement to a trad
 
 ### Education :mortar_board:
 
-- 2018: 
+- 2018:
+  - Openclassrooms - Backend Software Development (Java)
   - Attended Cerco IT Ltd’s intensive Computer Systems & Network Support course
   - CompTIA FC0-U51 IT Fundamentals  
   - CompTIA A+ 220-901 
@@ -20,8 +21,7 @@ This site will be used as my online portfolio, almost as a replacement to a trad
   - Microsoft 70-697 Configuring Windows Device (Windows 10) 
   - Cisco 100-105 ICND1 Interconnecting Cisco Network Devices Part 1 
 
-- 2017: 
-  - 
+
 
 ### Markdown
 
