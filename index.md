@@ -1,9 +1,9 @@
-## **Welcome to Steve Hall's Portfolio**
-### Backend Software Delevopment Student
+# **Welcome to Steve Hall's Portfolio**
+## Backend Software Delevopment Student
 
 This site will be used as my online portfolio, almost as a replacement to a traditional CV
 
-### Education
+## Education
 
 #### - 2018:
    - Openclassrooms - Backend Software Development (Java)
@@ -41,7 +41,7 @@ This site will be used as my online portfolio, almost as a replacement to a trad
    - GCSE German
  
 
-### Work Experience
+## Work Experience
 
 #### - 2018-Present:
    - PC Callout LTD
