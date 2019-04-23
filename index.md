@@ -3,10 +3,25 @@
 
 This site will be used as my online portfolio, almost as a replacement to a traditional CV
 
-### Education
+### Education :mortar_board:
 
 - 2018: 
   - Attended Cerco IT Ltd’s intensive Computer Systems & Network Support course
+  - CompTIA FC0-U51 IT Fundamentals  
+  - CompTIA A+ 220-901 
+  - CompTIA LX0-101 & LX0-102: CompTIA Linux+ 
+  - CompTIA A+ 220-902 
+  - CompTIA N10-006 CompTIA Network + 
+  - Microsoft 70-680 TS Configuring Windows 7 
+  - Microsoft 70-685 Pro Windows 7 Enterprise Desktop Support Technician  
+  - Microsoft 70-686 Pro Windows 7 Enterprise Desktop Administrator  
+  - Microsoft 70-687 Configuring Windows 8 
+  - Microsoft 70-688 Managing And Maintaining Windows 8 
+  - Microsoft 70-697 Configuring Windows Device (Windows 10) 
+  - Cisco 100-105 ICND1 Interconnecting Cisco Network Devices Part 1 
+
+- 2017: 
+  - 
 
 ### Markdown
 
