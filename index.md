@@ -1,7 +1,6 @@
 # **Welcome to Steve Hall's Portfolio**
 ## Backend Software Delevopment Student
-
-This site will be used as my online portfolio, almost as a replacement to a traditional CV
+&nbsp;
 
 ## Education
 
