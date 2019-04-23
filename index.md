@@ -6,7 +6,7 @@ Welcome to my Portfolio! My name is Steve, and below is a list of my qualificati
 
 ## About Me:
 
-![Image of Me]()
+![Image of Me](Webp.net-resizeimage.jpg)
 My name is Stephen Hall (although people just call me Steve), and I'm a 23 yeard old male from Sheffield, South Yorkshire. I live with my partner, four rabbits and a dog, so things can sometimes get hectic!
 My hobbies include my PC, playing videogames, music and riding my Motorbike.
 
