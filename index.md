@@ -45,7 +45,23 @@ This site will be used as my online portfolio, almost as a replacement to a trad
 
 #### - 2018-Present:
    - PC Callout LTD
+      - ###### IT Field Engineer
+   - Cerco
+      - ###### IT Field Engineer
 
+#### - June 2015 - November 2018:
+   - Amey
+      - ###### Trainee Technician
+
+#### - April 2014 - March 2015
+   - West Yorkshire Police
+      - ###### Muktimedia Assisstant
+      
+      
+      
+      
+      
+      
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
