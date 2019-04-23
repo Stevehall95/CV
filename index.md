@@ -1,5 +1,5 @@
-## Welcome to Steve Hall's Portfolio
-<h2>Backend Software Delevopment Student</h2>
+## **Welcome to Steve Hall's Portfolio**
+### Backend Software Delevopment Student
 
 You can use the [editor on GitHub](https://github.com/Stevehall95/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
